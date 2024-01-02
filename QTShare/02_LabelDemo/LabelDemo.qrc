@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/_LabelDemo">
+        <file>Resource/city.jpeg</file>
+        <file>Resource/huihui.gif</file>
+    </qresource>
+</RCC>

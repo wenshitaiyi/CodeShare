@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_MenuDemo", "..\01_MenuDemo\01_MenuDemo.vcxproj", "{C3F19923-D63A-42EC-956E-9137D271DFBA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_LabelDemo", "..\02_LabelDemo\02_LabelDemo.vcxproj", "{53762601-FE54-4DAB-A8FF-4CBA06E0562F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_ButtonDemo", "..\03_ButtonDemo\03_ButtonDemo.vcxproj", "{490641B2-9FCA-4B76-81C9-0383038D1108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3F19923-D63A-42EC-956E-9137D271DFBA}.Debug|x64.ActiveCfg = Debug|x64
+		{C3F19923-D63A-42EC-956E-9137D271DFBA}.Debug|x64.Build.0 = Debug|x64
+		{C3F19923-D63A-42EC-956E-9137D271DFBA}.Debug|x86.ActiveCfg = Debug|x64
+		{C3F19923-D63A-42EC-956E-9137D271DFBA}.Release|x64.ActiveCfg = Release|x64
+		{C3F19923-D63A-42EC-956E-9137D271DFBA}.Release|x64.Build.0 = Release|x64
+		{C3F19923-D63A-42EC-956E-9137D271DFBA}.Release|x86.ActiveCfg = Release|x64
+		{53762601-FE54-4DAB-A8FF-4CBA06E0562F}.Debug|x64.ActiveCfg = Debug|x64
+		{53762601-FE54-4DAB-A8FF-4CBA06E0562F}.Debug|x64.Build.0 = Debug|x64
+		{53762601-FE54-4DAB-A8FF-4CBA06E0562F}.Debug|x86.ActiveCfg = Debug|x64
+		{53762601-FE54-4DAB-A8FF-4CBA06E0562F}.Release|x64.ActiveCfg = Release|x64
+		{53762601-FE54-4DAB-A8FF-4CBA06E0562F}.Release|x64.Build.0 = Release|x64
+		{53762601-FE54-4DAB-A8FF-4CBA06E0562F}.Release|x86.ActiveCfg = Release|x64
+		{490641B2-9FCA-4B76-81C9-0383038D1108}.Debug|x64.ActiveCfg = Debug|x64
+		{490641B2-9FCA-4B76-81C9-0383038D1108}.Debug|x64.Build.0 = Debug|x64
+		{490641B2-9FCA-4B76-81C9-0383038D1108}.Debug|x86.ActiveCfg = Debug|x64
+		{490641B2-9FCA-4B76-81C9-0383038D1108}.Release|x64.ActiveCfg = Release|x64
+		{490641B2-9FCA-4B76-81C9-0383038D1108}.Release|x64.Build.0 = Release|x64
+		{490641B2-9FCA-4B76-81C9-0383038D1108}.Release|x86.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {710B9EE3-5E30-4BEB-B410-77F229E0A731}
+	EndGlobalSection
+EndGlobal
